@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaytali Jawalekar</h1>
 <h3 align="center">A curious learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaytalij&label=Profile%20views&color=0e75b6&style=flat" alt="chaytalij" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaytalij" alt="chaytalij" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain, DApps, Solidity, Web Dev**
 
 - 📫 How to reach me **jawalekarcs2302@gmail.com**
