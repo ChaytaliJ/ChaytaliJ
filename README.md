@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaytali Jawalekar</h1>
 <h3 align="center">A curious learner</h3>
 
-- 🌱 I’m currently learning **Blockchain, DApps, Solidity, Web Dev**
-
 - 📫 How to reach me **jawalekarcs2302@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
